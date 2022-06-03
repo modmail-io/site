@@ -1,6 +1,6 @@
 <div class="nav">
   <a href="/">
-    <img src="logo.svg" alt="Modmail logo" />
+    <img src="logo.png" alt="Modmail logo" />
     <h2>Modmail</h2>
   </a>
   <div class="grow" />
